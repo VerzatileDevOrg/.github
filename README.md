@@ -1,2 +1,6 @@
 # .github
-The rollowing repositories in the ogranization are used for practise and stable relases to software and web-development.
+Organizations Read.Me Holder.
+Write here to display on the homepage.
+
+-> path
+.github/profile/Read.me
