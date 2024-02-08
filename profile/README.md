@@ -12,7 +12,7 @@ It was created by [VerzatileDev](https://github.com/VerzatileDev) and [Sommos](h
 
 #### Future ?
 
-For the remaining future the aim is to involve the organization more into documentation writing see as an example [Programming Handbook](https://github.com/VerzatileDevOrg/Programming_HandBook), where the idea is to guide the programmer in a bettter directon of getting simple information that is easily readable and useful. It also sets other books and forums apart by being an open source innitiative, where anyone can request for changes and report issues with the documentation, though the main goal of the repository is to introduce concepts that a new programmer or more experienced ones to see different areas that they might have not touched previously.
+For the remaining future the aim is to involve the organization more into documentation writing see as an example [Programming Handbook](https://github.com/VerzatileDevOrg/Programming_HandBook) created by [VerzatileDev](https://github.com/VerzatileDev) and [JDSherbert](https://github.com/JDSherbert) , where the idea is to guide the programmer in a bettter directon of getting simple information that is easily readable and useful. It also sets other books and forums apart by being an open source innitiative, where anyone can request for changes and report issues with the documentation, though the main goal of the repository is to introduce concepts that a new programmer or more experienced ones to see different areas that they might have not touched previously.
 
 <br>
 
